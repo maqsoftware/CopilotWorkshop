@@ -1,7 +1,3 @@
----
-title: Databricks Genie Setup Guide
----
-
 # Databricks Genie Setup Guide
 
 ## 1. Get the PAT Token
@@ -27,4 +23,5 @@ title: Databricks Genie Setup Guide
 1. Click on the **Genie** tab (left sidebar).
 2. Click on the particular Genie.
 3. Click on **Configure** and go to the **Settings** tab.
+
 4. Copy your Genie Space ID.
