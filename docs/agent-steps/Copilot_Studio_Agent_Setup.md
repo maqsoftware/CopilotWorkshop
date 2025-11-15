@@ -1,7 +1,3 @@
----
-title: Copilot Studio Agent Setup Guide
----
-
 # Copilot Studio Agent Setup Guide
 
 ## 1. Create a New Agent
@@ -28,4 +24,5 @@ title: Copilot Studio Agent Setup Guide
 1. Select the newly created agent on the Agent page.
 2. Click on the **Tools** tab, then the **Flow** tab.
 3. Click on the Agent flow you want to add, then click **Add and configure**.
+
 4. Ensure the flow is **Enabled** and click **Save**.
