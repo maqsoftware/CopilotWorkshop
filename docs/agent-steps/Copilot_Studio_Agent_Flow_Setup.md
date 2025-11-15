@@ -1,11 +1,6 @@
----
-title: Copilot Studio Agent Flow Setup Guide
----
-
-
 # Copilot Studio Agent Flow Setup Guide
 
-## Setup Steps (Tabular Format)
+## Setup Steps
 
 | Step | Description | Screenshot |
 |------|-------------|------------|
@@ -21,3 +16,4 @@ title: Copilot Studio Agent Flow Setup Guide
 | 10 | Iterate over the message contents fetched from the Databricks Genie API:<br>- If the message content type is **text**, store it in the **Text Output** variable. | ![Step 10.1](/screenshots/step-10.1.png) <br> ![Step 10.2](/screenshots/step-10.2.png) |
 | 11 | Respond with a structured JSON output to the Agent containing **User Query**, **Text Output**, and **Inline Data**. | ![Step 11](/screenshots/step-11.png) |
 | 12 | Click on **Save draft** and then **Publish**. | ![Step 12](/screenshots/step-12.png) |
+
