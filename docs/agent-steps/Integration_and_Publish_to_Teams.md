@@ -1,7 +1,3 @@
----
-title: Integration and Publish to Teams Guide
----
-
 # Integration and Publish to Teams Guide
 
 ## Integration
@@ -14,4 +10,5 @@ title: Integration and Publish to Teams Guide
 1. After testing, click on the **Publish** button (top left corner).
 2. Click on the **Publish** button again.
 3. Click on the **Microsoft channels** button.
+
 4. Click on **See agent in Teams**.
