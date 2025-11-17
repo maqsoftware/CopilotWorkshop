@@ -1,4 +1,5 @@
 
+
 # Databricks Genie Setup Guide
 
 ## 1. Get the PAT Token
