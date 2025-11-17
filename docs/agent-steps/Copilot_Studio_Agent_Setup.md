@@ -27,5 +27,5 @@
 |------|-------------|------------|
 | 1 | Select the newly created agent on the Agent page. | ![step-3.1](../../screenshots/Copilot_Studio_Agent_Setup/step-3.1.png) |
 | 2 | Click on the **Tools** tab, click on **Add a tool** button, then the **Flow** tab. | ![step-3.2.1](../../screenshots/Copilot_Studio_Agent_Setup/step-3.2.1.png)<br>![step-3.2.2](../../screenshots/Copilot_Studio_Agent_Setup/step-3.2.2.png) |
-| 3 | Click on the Agent flow you want to add, then click **Add and configure**. | ![step-3.3](../../screenshots/Copilot_Studio_Agent_Setup/step-3.3.png) |
+| 3 | Click on the Agent flow you want to add (the one you created in the previous guide), then click **Add and configure**. | ![step-3.3](../../screenshots/Copilot_Studio_Agent_Setup/step-3.3.png) |
 | 4 | Ensure the flow is **Enabled** and click **Save**. | ![step-3.4](../../screenshots/Copilot_Studio_Agent_Setup/step-3.4.png) |
