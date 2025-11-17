@@ -18,8 +18,8 @@
 | Step | Description | Screenshot |
 |------|-------------|------------|
 | 1 | Select the newly created agent on the Agent page. | ![step-2.1](../../screenshots/Copilot_Studio_Agent_Setup/step-2.1.png) |
-| 2 | Click on the **Settings** button (top left corner). | ![step-2.2](../../screenshots/Copilot_Studio_Agent_Setup/step-2.2.png) |
-| 3 | In the **Generative AI** tab: <br> - Turn off **Use general knowledge** <br> - Turn off **File uploads** <br> - Turn on **Code interpreter** | ![step-2.3](../../screenshots/Copilot_Studio_Agent_Setup/step-2.3.png) |
+| 2 | Click on the **Settings** button (top right corner). | ![step-2.2](../../screenshots/Copilot_Studio_Agent_Setup/step-2.2.png) |
+| 3 | In the **Generative AI** tab: <br>&nbsp;&nbsp;&nbsp;- Turn off **Use general knowledge** <br>&nbsp;&nbsp;&nbsp;- Turn off **File uploads** <br>&nbsp;&nbsp;&nbsp;- Turn on **Code interpreter** | ![step-2.3](../../screenshots/Copilot_Studio_Agent_Setup/step-2.3.png) |
 
 ## 3. Add Tool
 

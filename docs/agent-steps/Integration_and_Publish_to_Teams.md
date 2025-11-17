@@ -12,7 +12,7 @@
 
 | Step | Description | Screenshot |
 |------|-------------|------------|
-| 1 | After testing, click on the **Publish** button (top left corner). | ![step-2.1](../../screenshots/Integration_and_Publish_to_Teams/step-2.1.png) |
+| 1 | After testing, click on the **Publish** button (top right corner). | ![step-2.1](../../screenshots/Integration_and_Publish_to_Teams/step-2.1.png) |
 | 2 | Click on the **Publish** button again. | ![step-2.2](../../screenshots/Integration_and_Publish_to_Teams/step-2.2.png) |
-| 3 | Once Published, click on the **Microsoft channels** button. | ![step-2.3](../../screenshots/Integration_and_Publish_to_Teams/step-2.3.png) |
+| 3 | Once Published, navigate to the Channels tab and click on the **Microsoft channels** button. | ![step-2.3](../../screenshots/Integration_and_Publish_to_Teams/step-2.3.png) |
 | 4 | Click on **See agent in Teams**. | ![step-2.4](../../screenshots/Integration_and_Publish_to_Teams/step-2.4.png) |
