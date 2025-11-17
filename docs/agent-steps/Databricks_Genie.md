@@ -1,4 +1,5 @@
 
+
 # Databricks Genie Setup Guide
 
 ## 1. Get the PAT Token
@@ -6,7 +7,7 @@
 | Step | Description | Screenshot |
 |------|-------------|------------|
 | 1 | Open your Databricks workspace. | ![step-1.1](../../screenshots/Databricks_Genie/step-1.1.png) |
-| 2 | Click on your **Profile** (top left corner). | ![step-1.2](../../screenshots/Databricks_Genie/step-1.2.png) |
+| 2 | Click on your **Profile** (top right corner). | ![step-1.2](../../screenshots/Databricks_Genie/step-1.2.png) |
 | 3 | Click on **Settings**. | ![step-1.3](../../screenshots/Databricks_Genie/step-1.3.png) |
 | 4 | Click on **Developer** under the User tab. | ![step-1.4](../../screenshots/Databricks_Genie/step-1.4.png) |
 | 5 | Click on **Manage** for Access Token. | ![step-1.5](../../screenshots/Databricks_Genie/step-1.5.png) |
